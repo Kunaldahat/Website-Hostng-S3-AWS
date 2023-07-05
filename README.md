@@ -5,6 +5,7 @@ Let's Begin..!
 Step 1 - Create a S3 Bucket with a globally unique name and you can also select your region.
 
 ![image](https://github.com/Kunaldahat/Website-Hostng-S3-AWS-/assets/96560952/4551e50e-159f-4795-afd5-be6767f3be2b)
+![MicrosoftTeams-image (6)](https://github.com/Kunaldahat/Website-Hostng-S3-AWS-/assets/96560952/4caad76e-d9ef-405e-86eb-b95d9caca13f)
 
 ![image](https://github.com/Kunaldahat/Website-Hostng-S3-AWS-/assets/96560952/f9f3f278-2089-4397-b7b9-9f553fbb84a8)
 
